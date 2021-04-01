@@ -12,8 +12,11 @@ Boa Sorte!
 
 ## Modelo
 
-Desenvolvido no Notebook presente, utilizando tensorflow
+Desenvolvido no Notebook presente ("desafio_tecnico_fieldpro.ipynb"), utilizando tensorflow
 
 ## API
 
 Desenvolvida em Flask para fácil integração com o modelo também escrito em Python
+
+### Deploy
+O deploy não foi feito em nenhuma nuvem, porém o setup para deploy foi feito utilizando "gunicorn" em tools/deploy.sh
